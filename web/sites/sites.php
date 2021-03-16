@@ -73,3 +73,5 @@ foreach ($platformsh->getUpstreamRoutes($platformsh->applicationName) as $route)
 }
 
 // Add additional domain mappings here.
+
+$sites['comms8.as.cornell.edu'] = 'second';

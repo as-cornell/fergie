@@ -1,0 +1,4 @@
+name: fergie
+recipe: platformsh
+config:
+  id: zefhv4jbse4ea
