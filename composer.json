@@ -24,6 +24,7 @@
         "drupal/redis": "^1.5",
         "drupal/twig_field_value": "^2.0",
         "drupal/twig_tweak": "^2.9",
+        "drupal/webform": "^6.0",
         "drush/drush": "^10.3",
         "platformsh/config-reader": "^2.4"
     },
